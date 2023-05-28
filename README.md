@@ -20,17 +20,16 @@ Related Resources:
 - `[CVPR2023]` [Re-IQA: Unsupervised Learning for Image Quality Assessment in the Wild](https://arxiv.org/abs/2304.00451), Saha et al. [Bibtex](./iqa_ref.bib#L791-L796)
 - `[CVPR2023]` [Blind Image Quality Assessment via Vision-Language Correspondence: A Multitask Learning Perspective](https://arxiv.org/abs/2303.14968), Zhang et al. [Github](https://github.com/zwx8981/LIQE) | [Bibtex](./iqa_ref.bib#L770-L775)
 - `[CVPR2023]` [Quality-aware Pre-trained Models for Blind Image Quality Assessment](https://arxiv.org/abs/2303.00521), Zhao et al. [Bibtex](./iqa_ref.bib#L763-L768)
-
 - `[AAAI2023]` [Exploring CLIP for Assessing the Look and Feel of Images](https://arxiv.org/abs/2207.12396), Wang et al. [Github](https://github.com/IceClear/CLIP-IQA) | [Bibtex](./iqa_ref.bib#L745-L750)
 - `[AAAI2023]` [Data-Efficient Image Quality Assessment with Attention-Panel Decoder](https://arxiv.org/abs/2304.04952), Qin et al. [Github](https://github.com/narthchin/DEIQT) | [Bibtex](./iqa_ref.bib#L745-L750)
-- `[TPAMI2022]` [Continual Learning for Blind Image Quality Assessment
-](https://arxiv.org/abs/2102.09717), Zhang et al. [Github](https://github.com/zwx8981/BIQA_CL) | [Bibtex](./iqa_ref.bib#L738-L743)
-- `[TIP2022]` [VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment](https://ieeexplore.ieee.org/document/9694502), Pan et al. [Github](https://github.com/NUIST-Videocoding/VCRNet) | [Bibtex](./iqa_ref.bib#L752-L761)
-- `[TMM2022]` [GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment](https://arxiv.org/abs/2103.07666), Sun et al. [Github](https://github.com/geekyutao/GraphIQA) | [Bibtex](./iqa_ref.bib#L701-L707)
-- `[CVPR2021]` [Troubleshooting Blind Image Quality Models in the Wild](https://arxiv.org/abs/2105.06747), Wang et al. [Github](https://github.com/wangzhihua520/troubleshooting_BIQA) | [Bibtex](./iqa_ref.bib#L716-L722)
+
+
 
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
+| [arXiv](https://ieeexplore.ieee.org/document/9694502) | | NR | TIP2022 | [Official](https://github.com/NUIST-Videocoding/VCRNet) | VCRNet: Visual Compensation Restoration Network for No-Reference Image Quality Assessment |
+| [arXiv](https://arxiv.org/abs/2103.07666) | | NR | TMM2022 | [Official](https://github.com/geekyutao/GraphIQA) | GraphIQA: Learning Distortion Graph Representations for Blind Image Quality Assessment |
+| [arXiv](https://arxiv.org/abs/2102.09717) | | NR | TPAMI2022 | [Official](https://github.com/zwx8981/BIQA_CL) | Continual Learning for Blind Image Quality Assessment |
 | [arXiv](https://arxiv.org/pdf/2205.13847.pdf) | NRIQA | NR | 2022 | [Official](https://github.com/yuqing-liu-dut/nriqa_sr) | Textural-Perceptual Joint Learning for No-Reference Super-Resolution Image Quality Assessment|
 | [arXiv](https://arxiv.org/pdf/2110.13266.pdf) | CONTRIQUE | NR | TIP2022 |  | Image quality assessment using contrastive learning |
 | [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
@@ -41,8 +40,9 @@ Related Resources:
 | [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction |
 | [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
-| [arXiv](https://arxiv.org/pdf/2102.00155.pdf) | | NR | ICASSP2021 |  | Regression or classification? New methods to evaluate no-reference picture and video quality models
-| [pdf](https://arxiv.org/pdf/2006.03783.pdf) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment via Feature Fusion and Multi-Task Learning
+| [arXiv](https://arxiv.org/pdf/2102.00155.pdf) | | NR | ICASSP2021 |  | Regression or classification? New methods to evaluate no-reference picture and video quality models |
+| [pdf](https://arxiv.org/abs/2105.06747) |  | NR | CVPR2021 |  | [git](https://github.com/wangzhihua520/troubleshooting_BIQA) | Troubleshooting Blind Image Quality Models in the Wild |
+| [pdf](https://arxiv.org/pdf/2006.03783.pdf) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment via Feature Fusion and Multi-Task Learning |
 | [pdf](https://www.researchgate.net/publication/339988893_No-Reference_Image_Quality_Assessment_Based_on_Dual-Domain_Feature_Fusion#fullTextFileContent) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment Based on Dual-Domain Feature Fusion |
 | [pdf](https://ieeexplore.ieee.org/document/8576582) |  | NR | TCSVT2020 | [Pytorch](https://github.com/zwx8981/DBCNN) | Blind image quality assessment using a deep bilinear convolutional neural network |
 | [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) | HyperIQA | NR | CVPR2020 | [Official](https://github.com/SSL92/hyperIQA) | Content-aware hyper network 
