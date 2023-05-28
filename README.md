@@ -35,7 +35,8 @@ Related Resources:
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
 | [arXiv](https://arxiv.org/pdf/2205.13847.pdf) | NRIQA | NR | 2022 | [Official](https://github.com/yuqing-liu-dut/nriqa_sr) | Textural-Perceptual Joint Learning for No-Reference Super-Resolution Image Quality Assessment|
 | [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
-| [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency |
+| [arXiv](https://openaccess.thecvf.com/content/WACV2022W/VAQ/papers/Madhusudana_Image_Quality_Assessment_Using_Synthetic_Images_WACVW_2022_paper.pdf) |  | NR | WACV2022 |  | Image Quality Assessment using Synthetic Images |
+| [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency: No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency |
 | [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction 
 | [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
