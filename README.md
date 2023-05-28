@@ -76,6 +76,7 @@ Related Resources:
 | [pdf](https://live.ece.utexas.edu/publications/2015/zhang2015feature.pdf) | ILNIQE | NR | TIP2015 | [Official](http://www4.comp.polyu.edu.hk/~cslzhang/IQA/ILNIQE/ILNIQE.htm) | Traditional 
 | [pdf](https://drive.google.com/file/d/1F4dZ7-v3qtbN7-MRA-eWrOZYcyzfxF1Z/view) | SSEQ | NR | SPIC2014 | [Matlab](https://github.com/OaDsis/No-Reference-IQA) | Trad: No-reference image quality assessment based on spatial and spectral entropies
 | [pdf](https://gfx.cs.princeton.edu/pubs/Liu_2013_ANM/sa13.pdf) | | NR | TOG2013 |  | A No-Reference Metric for Evaluating the Quality of Motion Deblurring
+| [pdf](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Xue_Learning_without_Human_2013_CVPR_paper.pdf) | | NR | CVPR2013 |  | Learning without human scores for blind image quality assessment |
 | [pdf](https://live.ece.utexas.edu/publications/2012/TIP%20BRISQUE.pdf) | BRISQUE | NR | TIP2012 | [Official](https://github.com/utlive/BRISQUE) | Traditional 
 | [pdf](https://live.ece.utexas.edu/publications/2012/saad_2012_tip.pdf) | BLIINDS-II | NR | TIP2012 | [Official](https://github.com/utlive/BLIINDS2) | Blind Image Quality Assessment: A Natural Scene Statistics Approach in the DCT Domain
 | [pdf](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.359.7510&rep=rep1&type=pdf) | CORNIA | NR | CVPR2012 | [Matlab download](https://github.com/HuiZeng/BIQA_Toolbox) | Codebook Representation 
