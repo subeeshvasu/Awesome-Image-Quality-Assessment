@@ -34,6 +34,7 @@ Related Resources:
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
 | [arXiv](https://arxiv.org/pdf/2205.13847.pdf) | NRIQA | NR | 2022 | [Official](https://github.com/yuqing-liu-dut/nriqa_sr) | Textural-Perceptual Joint Learning for No-Reference Super-Resolution Image Quality Assessment|
+| [arXiv](https://arxiv.org/pdf/2110.13266.pdf) | CONTRIQUE | NR | TIP2022 |  | Image quality assessment using contrastive learning |
 | [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
 | [arXiv](https://openaccess.thecvf.com/content/WACV2022W/VAQ/papers/Madhusudana_Image_Quality_Assessment_Using_Synthetic_Images_WACVW_2022_paper.pdf) |  | NR | WACV2022 |  | Image Quality Assessment using Synthetic Images |
 | [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency: No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency |
