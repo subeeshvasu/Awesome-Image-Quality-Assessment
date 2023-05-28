@@ -33,6 +33,9 @@ Related Resources:
 
 | Paper Link | Method | Type | Published | Code | Keywords | 
 | ----------- | ---------- | ------------| ---------- | ------ | ------ |
+Textural-Perceptual Joint Learning for No-Reference
+Super-Resolution Image Quality Assessment
+| [arXiv](https://arxiv.org/pdf/2205.13847.pdf) | NRIQA | NR | 2022 | [Official](https://github.com/yuqing-liu-dut/nriqa_sr) | |
 | [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
 | [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency |
 | [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction 
