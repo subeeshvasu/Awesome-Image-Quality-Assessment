@@ -44,7 +44,8 @@ Related Resources:
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
 | [arXiv](https://arxiv.org/pdf/2102.00155.pdf) | | NR | ICASSP2021 |  | Regression or classification? New methods to evaluate no-reference picture and video quality models
 | [pdf](https://arxiv.org/pdf/2006.03783.pdf) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment via Feature Fusion and Multi-Task Learning
-| [pdf](https://www.researchgate.net/publication/339988893_No-Reference_Image_Quality_Assessment_Based_on_Dual-Domain_Feature_Fusion#fullTextFileContent) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment Based on Dual-Domain Feature Fusion
+| [pdf](https://www.researchgate.net/publication/339988893_No-Reference_Image_Quality_Assessment_Based_on_Dual-Domain_Feature_Fusion#fullTextFileContent) |  | NR | Arxiv2020 |  | No-Reference Image Quality Assessment Based on Dual-Domain Feature Fusion |
+| [pdf](https://ieeexplore.ieee.org/document/8576582) |  | NR | TCSVT2020 | [Pytorch](https://github.com/zwx8981/DBCNN) | Blind image quality assessment using a deep bilinear convolutional neural network |
 | [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Su_Blindly_Assess_Image_Quality_in_the_Wild_Guided_by_a_CVPR_2020_paper.pdf) | HyperIQA | NR | CVPR2020 | [Official](https://github.com/SSL92/hyperIQA) | Content-aware hyper network 
 | [arXiv](https://arxiv.org/abs/2004.05508) | Meta-IQA | NR | CVPR2020 | [Official](https://github.com/zhuhancheng/MetaIQA) | Meta-learning |
 | [arXiv](https://arxiv.org/abs/1912.10088) | PaQ-2-PiQ | NR | CVPR2020 | [Official](https://github.com/baidut/PaQ-2-PiQ) | From Patches to Pictures (PaQ-2-PiQ): Mapping the Perceptual Space of Picture Quality |
