@@ -1,8 +1,6 @@
 # Awesome Image Quality Assessment (IQA)
 A comprehensive collection of IQA papers, datasets and codes. We also provide PyTorch implementations of mainstream metrics in [IQA-PyTorch](https://github.com/chaofengc/IQA-PyTorch) 
 
-[![toolbox](https://img.shields.io/badge/Toolbox-IQA--PyTorch-critical)](https://github.com/chaofengc/IQA-PyTorch) [![PyPI](https://img.shields.io/pypi/v/pyiqa)](https://pypi.org/project/pyiqa/) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaofengc/Awesome-Image-Quality-Assessment) 
-
 - [Awesome Image Quality Assessment (IQA)](#awesome-image-quality-assessment-iqa)
   - [Papers](#papers)
     - [No Reference (NR)](#no-reference-nr)
