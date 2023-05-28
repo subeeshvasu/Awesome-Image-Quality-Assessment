@@ -71,6 +71,8 @@ Related Resources:
 | [pdf](https://live.ece.utexas.edu/publications/2013/mittal2013.pdf) | NIQE | NR | SPL2012 | [Official](https://github.com/utlive/niqe) | Traditional 
 | [pdf](https://www.imaging.utk.edu/research/wcho/references/2011%20TIP%20BLINDS2.pdf) | DIIVINE | NR | TIP2011 | [Official](https://github.com/utlive/DIIVINE) | 
 | [pdf](https://ieeexplore.ieee.org/document/5432998) | BIQI | NR | SPL2010 | [Matlab](https://github.com/dsoellinger/blind_image_quality_toolbox) | Trad: A Two-Step Framework for Constructing Blind Image Quality Indices
+| [pdf](https://hal.science/file/index/docid/808353/filename/ms_spl_june10.pdf) |  | NR | SPL2010 | | Trad: A DCT statistics-based blind image quality index
+| [pdf](https://www.sciencedirect.com/science/article/abs/pii/S0165168407003337) |  | NR | SP2008 |  | Trad: No-reference image quality assessment based on DCT domain statistics
 <!-- | []() | | NR | | []() |  -->
 
 ### Full Reference (FR)
