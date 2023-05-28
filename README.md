@@ -36,7 +36,8 @@ Related Resources:
 | [arXiv](https://arxiv.org/abs/2204.08958) | MANIQA | NR | CVPRW2022 | [Official](https://github.com/IIGROUP/MANIQA) | Transformer, multi-dimension attention, dual branch |
 | [arXiv](https://openaccess.thecvf.com/content/WACV2022W/VAQ/papers/Madhusudana_Image_Quality_Assessment_Using_Synthetic_Images_WACVW_2022_paper.pdf) |  | NR | WACV2022 |  | Image Quality Assessment using Synthetic Images |
 | [arXiv](https://arxiv.org/abs/2108.06858) | TReS | NR | WACV2022 | [Official](https://github.com/isalirezag/TReS) | Transformer, relative ranking, self-consistency: No-Reference Image Quality Assessment via Transformers, Relative Ranking, and Self-Consistency |
-| [pdf](https://arxiv.org/pdf/2111.07104.pdf) | | NR | 2021 | [Tf-code](https://github.com/Tencent/CenseoQoE) | A strong baseline for image and video quality assessment |
+| [pdf](https://arxiv.org/pdf/2101.01097.pdf) | TRIQ | NR | ICIP2021 | [Tf](https://github.com/junyongyou/triq) |  |
+| [pdf](https://arxiv.org/pdf/2111.07104.pdf) | | NR | 2021 | [Tf](https://github.com/Tencent/CenseoQoE) | A strong baseline for image and video quality assessment |
 | [pdf](https://www.bmvc2021-virtualconference.com/assets/papers/0868.pdf) | KonIQ++ | NR | BMVC2021 | [Official](https://github.com/SSL92/koniqplusplus) | Multi-task with distortion prediction |
 | [arXiv](https://arxiv.org/abs/2108.05997) | MUSIQ | NR | ICCV2021 | [Official](https://github.com/google-research/google-research/tree/master/musiq) / [Pytorch](https://github.com/anse3832/MUSIQ) | Multi-scale, transformer, Aspect Ratio Preserved (ARP) resizing
 | [arXiv](https://arxiv.org/abs/2108.07948) | CKDN | NR | ICCV2021 | [Official](https://github.com/researchmm/CKDN) | Degraded reference, Conditional knowledge distillation (related to HIQA)
