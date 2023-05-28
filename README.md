@@ -49,6 +49,7 @@ Related Resources:
 | [arXiv](https://arxiv.org/abs/1912.10088) | PaQ-2-PiQ | NR | CVPR2020 | [Official](https://github.com/baidut/PaQ-2-PiQ) | From Patches to Pictures (PaQ-2-PiQ): Mapping the Perceptual Space of Picture Quality |
 | [arXiv](https://arxiv.org/abs/2003.08932) | GIQA | NR | ECCV2020 | [Official](https://github.com/cientgu/GIQA) | Generated image 
 | [arXiv](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9159559) | | NR | Access2020 |  | Blind image quality assessment for super resolution via optimal feature selection
+| [arXiv](https://arxiv.org/pdf/1902.06285.pdf) | | NR | TPAMI2019 |  | Exploiting unlabeled data in cnns by self-supervised learning to rank
 | [arXiv](https://ieeexplore.ieee.org/abstract/document/8833510) | | NR | TIP2019 |  |Quality measurement of images on mobile streaming interfaces deployed at scale
 | [arXiv](https://ieeexplore.ieee.org/abstract/document/8682512) | | NR | ICASSP2019 |  | Optimal feature selection for blind super-resolution image quality evaluation
 | [arXiv](https://arxiv.org/abs/1809.07517) | PI | NR | 2018 PIRM Challenge | [Project](https://github.com/roimehrez/PIRM2018) | 1/2 * (NIQE + (10 - NRQM)). 
